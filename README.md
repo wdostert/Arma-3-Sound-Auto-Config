@@ -3,5 +3,5 @@ A tool to help create description.ext files for missions with lots of sound file
 
 Usage:
 
-1. Put all of your sound files in a folder named "sounds" inside your mission folder (all sounds must be ogg files)
-2. Run the script
+1. Put all of your sound files in a folder named "sounds" inside your mission folder (all sounds must be ogg files).
+2. Put the script inside the mission folder and run it.
